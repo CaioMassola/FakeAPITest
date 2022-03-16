@@ -1,1 +1,24 @@
 
+{
+  "alunos": [
+    { 
+      "id": 1,
+      "nome": "Caio Massola",
+      "curso": "Sistemas de Informações"
+    },
+     { 
+      "id": 2,
+      "nome": "Gabriella Martins",
+      "curso": "Design de Interiores"
+    },
+        { 
+      "id": 3,
+      "nome": "Geovana Tello",
+      "curso": "Medicina"
+    },
+        { 
+      "id": 4,
+      "nome": "Eduarda Morais",
+      "curso": "Relações Publicas"
+    },
+}
